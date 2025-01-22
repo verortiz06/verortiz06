@@ -9,6 +9,7 @@
 ### Connect with me:
 
 Linkedin: www.linkedin.com/in/veronicagortiz
+
 Email: vortiz3@nd.edu
 
 
