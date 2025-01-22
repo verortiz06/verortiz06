@@ -8,13 +8,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[Email](vortiz3@nd.edu)
+Linkedin: www.linkedin.com/in/veronicagortiz
+Email: vortiz3@nd.edu
 
 
 <br />
 
 ---
-
-[website]: https://franjcf.github.io/
-[linkedin]: https://www.linkedin.com/in/francisco-jose-carrillo/
