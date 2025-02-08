@@ -38,6 +38,8 @@ School Email: vortiz3@nd.edu<br>
 Personal Email: ronnieortiz2005@gmail.com
 
 ![Notre Dame Logo](https://hoopdirt.com/wp-content/uploads/2016/06/Notre-Dame-Logo.jpg)
+(![IMG_7478](https://github.com/user-attachments/assets/51996fed-d844-4650-aed4-525a2aea224c)
+
 
 <br />
 
