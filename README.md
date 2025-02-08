@@ -20,11 +20,24 @@ Python, Microsoft Visual Studio Code, STATA
 - Women in Economics Club
 - Tennis & Pickleball Club
 
+## Current and Past Projects
+### Present:
+- **Notre Dame Magnificat Choir:** Working collaboratively on growing the choir's presence on campus through organizing concert performances, successfully planning and executing tours (such as our most recent Spring 2025 Italy tour!), and raising record amounts of donations to support bringing the choir to new heights
+- **Notre Dame Student Government:** Planning events for Notre Dame students, particularly first-years, to engage with their new campus community and learn about all the academic opportunities and resources that are available to them
+- **Lewis Hall Council:** Encouraging students to become proactive community members by promoting training in situational awareness and intervention skills to cultivate a safe campus
+### Past:
+- **Econometrics Fall 2024:** In this class, my final project consisted of answering a research question of my choosing. My research question was "Does the Ability to Speak English in the United States Affect Income?" Through a thorough selection of Census data and using econometric regression analysis, I answered this research question and additionally got insights at how other variables affect income in the United States, such as: age, gender, years living in the US, and highest level of education attained.
+
+## Goals:
+By the end of the Spring 2025 semester, I hope to have a thorough understanding of Python and how it, and other data tools such at Streamlit, can be used to go through the Data Science process of exploratory data analysis and beyond. I especially hope to master the art of gleaning information from data, evaluating the impact of results, and being able to best present and communiticate those valuable insights.
+
 ### Connect with me!
 
 Linkedin: www.linkedin.com/in/veronicagortiz<br>
-Email: vortiz3@nd.edu
+School Email: vortiz3@nd.edu
+Personal Email: ronnieortiz2005@gmail.com
 
+![Notre Dame Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhoopdirt.com%2Fmike-brey-adds-ryan-ayers-to-staff-at-notre-dame%2Fnotre-dame-logo%2F&psig=AOvVaw1G-gPOa1m4QdTbBnwuZ_tN&ust=1739142168426000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjb8MqXtYsDFQAAAAAdAAAAABAI)
 
 <br />
 
