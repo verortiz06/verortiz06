@@ -34,10 +34,10 @@ By the end of the Spring 2025 semester, I hope to have a thorough understanding 
 ### Connect with me!
 
 Linkedin: www.linkedin.com/in/veronicagortiz<br>
-School Email: vortiz3@nd.edu
+School Email: vortiz3@nd.edu<br>
 Personal Email: ronnieortiz2005@gmail.com
 
-![Notre Dame Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhoopdirt.com%2Fmike-brey-adds-ryan-ayers-to-staff-at-notre-dame%2Fnotre-dame-logo%2F&psig=AOvVaw1G-gPOa1m4QdTbBnwuZ_tN&ust=1739142168426000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjb8MqXtYsDFQAAAAAdAAAAABAI)
+![Notre Dame Logo](https://hoopdirt.com/wp-content/uploads/2016/06/Notre-Dame-Logo.jpg)
 
 <br />
 
