@@ -6,7 +6,7 @@ Howdy! Though Tomball, Texas will always be my home at heart, I am currently a *
 
 - 👩‍💻  Class of 2027
 - 🌎  Economics and Global Affairs Major, Data Science Minor
-- ⚡  Fun fact: I love music! I played piano for about 6 years, was in my middle school and high school's honor orchestras for 7 years, and I am currently in one of my university's choirs!
+- ⚡  Fun fact: I love music! I played piano for about 6 years, was in my middle school and high school's honor orchestra for 7 years, and I am currently in one of my university's choirs!
 
 ## Technical Skills
 
@@ -14,7 +14,7 @@ Python, Microsoft Visual Studio Code, STATA
 
 ## Extracurriculars
 
-- Treasurer of the *Notre Magnificat Choir*
+- Treasurer of the *Notre Dame Magnificat Choir*
 - Academic Affairs Committe in *ND Student Government*
 - GRC/GreenDot Commissioner in *Lewis Hall Council*
 - Women in Economics Club
