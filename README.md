@@ -1,6 +1,6 @@
 # Hi there, I'm Veronica Ortiz!
 
-Howdy! Though Tomball, Texas will always be my home at heart, I am currently a **sophomore majoring in Economics and minoring in Data Science at the University of Notre Dame**. I am incredibly intrigued by understanding and analyzing the intertwining of global economies and markets while prioritizing the common good.
+Howdy! Though Tomball, Texas will always be my home at heart, I am currently a **sophomore majoring in Economics and minoring in Data Science and Marketing at the University of Notre Dame**. I am incredibly intrigued by understanding and analyzing the intertwining of global economies and markets while prioritizing the common good.
 
 ## Student at the University of Notre Dame
 
