@@ -43,7 +43,7 @@ leaders in consulting and the global business community
   - In charge of collecting all receipts and overseeing committee expenditures
   - Lead establishing budgets and managing hall fundraising
 
-## 🎯 Goals:
+## 🎯 Goals
 By the end of the Spring 2025 semester, I hope to have a thorough understanding of Python and how it, and other data tools such at Streamlit, can be used to go through the Data Science process of exploratory data analysis and beyond. I especially hope to master the art of gleaning information from data, evaluating the impact of results, and being able to best present and communiticate those valuable insights.
 
 ## 🤝 Connect with me!
