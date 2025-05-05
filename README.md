@@ -23,11 +23,11 @@ team
 ## Extracurriculars
 
 - Teaching Assistant for *Statistics for Economics* class under Professor Forrest Spence
-- 2024-25 Treasurer of the *Notre Dame Magnificat Choir*, incoming Secretary for the 2025-26 academic year
-- 2024-25 Academic Affairs Committee in *ND Student Government*, incoming member of University Policy Committee for the 2025-26 academic year
-- 2024-25 GRC/GreenDot Commissioner in *Lewis Hall Council*, incoming Treasurer for the 2025-26 academic year
-- Women in Economics Club
-- Tennis & Pickleball Club
+- **Secretary** of the *Notre Dame Magnificat Choir*
+- Member of **University Policy Committee** within *ND Student Government*
+- **Treasurer** of Lewis Hall within *Lewis Hall Council*
+- Women in Economics Club member
+- Tennis & Pickleball Club member
 
 ## Current and Past Projects
 ### Present:
