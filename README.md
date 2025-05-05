@@ -22,7 +22,7 @@ team
 
 ## Extracurriculars
 
-- Teaching Assistant for *Statistics for Economics* class under Professor Forrest Spence
+- **Teaching Assistant** for *Statistics for Economics* class under Professor Forrest Spence
 - **Secretary** of the *Notre Dame Magnificat Choir*
 - Member of **University Policy Committee** within *ND Student Government*
 - **Treasurer** of Lewis Hall within *Lewis Hall Council*
