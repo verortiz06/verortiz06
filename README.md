@@ -4,7 +4,7 @@ Howdy! Though Tomball, Texas will always be my home at heart, I am currently a *
 
 ## 📚 Student at the University of Notre Dame
 
-- 👩‍💻  Class of 2027
+- 🎓  Class of 2027
 - 🌎  Economics Major, Data Science and Marketing Minors
 - ⚡  Fun fact: I love music! I played piano for about 6 years, was in my middle school and high school's honor orchestra for 7 years, and I am currently in one of my university's choirs! More recently, I have picked up the guitar and I love just playing and singing along.
 
